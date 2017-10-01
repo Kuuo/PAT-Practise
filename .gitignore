@@ -1,3 +1,9 @@
+# User Specified
+in
+out
+*.in
+*.out
+
 # Compiled Object files
 *.slo
 *.lo
